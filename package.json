@@ -1,0 +1,31 @@
+{
+  "name": "wakeorelse",
+  "version": "1.0.0",
+  "description": "A bot that will post embarressing tweets at a particular time of the morning if I don't wake up and stop it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-sides/wakeOrElse.git"
+  },
+  "keywords": [
+    "wake",
+    "awake",
+    "bot",
+    "twitter",
+    "alarm",
+    "motivation"
+  ],
+  "author": "Jacob Sides",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/the-sides/wakeOrElse/issues"
+  },
+  "homepage": "https://github.com/the-sides/wakeOrElse#readme",
+  "dependencies": {
+    "alarm": "^2.0.0",
+    "twitter": "^1.7.1"
+  }
+}
