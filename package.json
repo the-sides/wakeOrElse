@@ -4,6 +4,7 @@
   "description": "A bot that will post embarressing tweets at a particular time of the morning if I don't wake up and stop it.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
